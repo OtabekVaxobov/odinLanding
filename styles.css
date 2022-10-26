@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 100%;
+    justify-content: center;
+    border: 16px solid rgb(70, 69, 75);
+}
+
+.header-nav {
+    display: flex;
+    width: 40%;
+    height: 40%;
+    justify-content: center;
+}
+
+nav {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: aquamarine;
+    box-shadow: rgb(103, 84, 197);
+}
