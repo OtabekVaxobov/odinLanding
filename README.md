@@ -1,3 +1,4 @@
-Project: Landing Page
-Foundations Course
-https://www.theodinproject.com/lessons/foundations-landing-page
+Project: Landing Page <br/>
+Foundations Course <br/>
+[task](https://www.theodinproject.com/lessons/foundations-landing-page) <br/>
+[deploy](https://otabekvaxobov.github.io/odinLanding)
